@@ -28,7 +28,7 @@ class Program
         Main();
     }
 
-    // Task 1
+    // Ypr 1
     static void TaskOne()
     {
         Console.Write("Введите основание a: ");
@@ -52,7 +52,7 @@ class Program
         Console.WriteLine($"{a}^{n} = {result}");
     }
 
-    // Task 2
+    // Ypr 2
     static void TaskTwo()
     {
         Console.Write("Введите число x (x >= 100): ");
@@ -84,3 +84,4 @@ class Program
         Console.WriteLine($"Результат n = {n}");
     }
 }
+
